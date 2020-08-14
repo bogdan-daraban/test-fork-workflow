@@ -6,7 +6,7 @@ namespace TestGitFork
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("We are now on the feature branch");
         }
     }
 }
